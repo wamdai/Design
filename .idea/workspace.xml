@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="loginProject:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8853f1b1-4045-443e-ac55-313d00d193cb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/ImgSource/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/com/xxxx/controller/Download.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/com/xxxx/controller/DownloadTop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/com/xxxx/controller/Downloadmiddle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/com/xxxx/controller/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/com/xxxx/controller/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/com/xxxx/entity/DwnFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/com/xxxx/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/com/xxxx/entity/vo/MessageModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/com/xxxx/mapper/DownloadFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/com/xxxx/mapper/DownloadFile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/com/xxxx/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/com/xxxx/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/com/xxxx/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/com/xxxx/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/com/xxxx/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/com/xxxx/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/com/xxxx/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/com/xxxx/test/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/mysql.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/classes/mysql.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/专升本调查表.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/武汉纺织大学2020-2021学年教学校历.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/WEB-INF/武汉纺织大学2020年专升本新生健康承诺书.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/css/Home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/js/jquery-3.4.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/js/jquery-3.4.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/loginProject_war_exploded/validate.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loginProject/com/xxxx/controller/Download.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loginProject/com/xxxx/controller/DownloadTop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loginProject/com/xxxx/controller/Downloadmiddle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loginProject/com/xxxx/controller/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loginProject/com/xxxx/controller/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loginProject/com/xxxx/entity/DwnFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loginProject/com/xxxx/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loginProject/com/xxxx/entity/vo/MessageModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loginProject/com/xxxx/mapper/DownloadFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loginProject/com/xxxx/mapper/DownloadFile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loginProject/com/xxxx/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loginProject/com/xxxx/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loginProject/com/xxxx/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loginProject/com/xxxx/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loginProject/com/xxxx/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loginProject/com/xxxx/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loginProject/com/xxxx/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loginProject/com/xxxx/test/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loginProject/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loginProject/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loginProject/mysql.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loginProject/mysql.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xxxx/controller/Download.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xxxx/controller/DownloadTop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xxxx/controller/Downloadmiddle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xxxx/controller/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xxxx/controller/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xxxx/entity/DwnFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xxxx/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xxxx/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xxxx/entity/vo/MessageModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xxxx/model/vo/MessageModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xxxx/mapper/DownloadFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xxxx/mapper/DownloadFile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xxxx/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xxxx/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xxxx/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xxxx/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xxxx/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xxxx/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xxxx/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xxxx/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mysql.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/mysql.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/ImgSource/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/专升本调查表.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/武汉纺织大学2020-2021学年教学校历.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/武汉纺织大学2020年专升本新生健康承诺书.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/Home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/Login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/js/jquery-3.4.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/js/jquery-3.4.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/validate.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web2/WEB-INF/web.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JavaScript File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>session</find>
+      <find>user</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../software/Maven/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="C:\software\Maven\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YzTwvskd9X72KvmFBeLzmoZ6Iv" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>InjectedReferences</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Programfile\JAVA\Java_Source\day06_乐字节javaWeb中级（JSP+JSTL）\002_code\loginProject\web\ImgSource" />
+      <recent name="C:\IdeaWorkspace\loginProject\web" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xxxx.controller" />
+      <recent name="com.xxxx.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Programfile\JAVAWeb\One\loginproject\web\ImgSource" />
+      <recent name="E:\Programfile\JAVAWeb\One\loginproject\web\WEB-INF\lib" />
+      <recent name="E:\Programfile\JAVA\Java_Source\day06_乐字节javaWeb中级（JSP+JSTL）\002_code\loginProject\src\com\xxxx\mapper" />
+      <recent name="E:\Programfile\JAVA\Java_Source\day06_乐字节javaWeb中级（JSP+JSTL）\002_code\loginProject\web\WEB-INF" />
+      <recent name="E:\Programfile\JAVA\Java_Source\day06_乐字节javaWeb中级（JSP+JSTL）\002_code\loginProject\web\ImgSource" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.47">
+    <configuration name="GetSqlSession" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xxxx.util.GetSqlSession" />
+      <module name="loginProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxx.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xxxx.test.Test" />
+      <module name="loginProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxx.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.47" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.47" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/lp/index.jsp" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="loginProject:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/lp" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_47_loginProject" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="14266" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="loginProject:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GetSqlSession" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.47" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.GetSqlSession" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8853f1b1-4045-443e-ac55-313d00d193cb" name="Default Changelist" comment="" />
+      <created>1583944665176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583944665176</updated>
+      <workItem from="1583944670442" duration="5193000" />
+      <workItem from="1583951386028" duration="2000" />
+      <workItem from="1583985883915" duration="8044000" />
+      <workItem from="1600076264617" duration="1615000" />
+      <workItem from="1600128000781" duration="7244000" />
+      <workItem from="1600430886183" duration="3662000" />
+      <workItem from="1600487841035" duration="13408000" />
+      <workItem from="1600579643784" duration="976000" />
+      <workItem from="1600684686603" duration="2000" />
+      <workItem from="1601100113229" duration="21664000" />
+      <workItem from="1602152390742" duration="2180000" />
+      <workItem from="1602208420714" duration="1189000" />
+      <workItem from="1602237547603" duration="4938000" />
+      <workItem from="1602311780232" duration="5056000" />
+      <workItem from="1602316932523" duration="335000" />
+      <workItem from="1602319220808" duration="603000" />
+      <workItem from="1606910617731" duration="227000" />
+      <workItem from="1607224879646" duration="5952000" />
+      <workItem from="1607238264552" duration="20439000" />
+      <workItem from="1607315794673" duration="4729000" />
+      <workItem from="1607320583509" duration="3510000" />
+      <workItem from="1607325370033" duration="17000" />
+      <workItem from="1607508548627" duration="1081000" />
+      <workItem from="1607681531505" duration="430000" />
+      <workItem from="1607845605154" duration="4501000" />
+      <workItem from="1608102267496" duration="1571000" />
+      <workItem from="1608108875215" duration="743000" />
+      <workItem from="1608111598309" duration="571000" />
+      <workItem from="1608184949408" duration="610000" />
+      <workItem from="1608274151301" duration="7054000" />
+      <workItem from="1608361974670" duration="508000" />
+      <workItem from="1608363022590" duration="129000" />
+      <workItem from="1608363636122" duration="288000" />
+      <workItem from="1608365809800" duration="7629000" />
+      <workItem from="1608445713193" duration="8199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608451970727">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1608451970727" />
+    <state x="588" y="103" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1608451222181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="588" y="103" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.824@0.0.1536.824" timestamp="1608451222181" />
+    <state width="415" height="466" key="DebuggerActiveHint" timestamp="1608451481237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="415" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1608451481237" />
+    <state width="1024" height="244" key="GridCell.Tab.0.bottom" timestamp="1608458553664">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="244" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608458553664" />
+    <state width="1024" height="244" key="GridCell.Tab.0.center" timestamp="1608458553664">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="244" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608458553664" />
+    <state width="1024" height="244" key="GridCell.Tab.0.left" timestamp="1608458553664">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="244" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608458553664" />
+    <state width="1024" height="244" key="GridCell.Tab.0.right" timestamp="1608458553664">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="244" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608458553664" />
+    <state width="1024" height="244" key="GridCell.Tab.1.bottom" timestamp="1608458553665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="244" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608458553665" />
+    <state width="1024" height="244" key="GridCell.Tab.1.center" timestamp="1608458553665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="244" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608458553665" />
+    <state width="1024" height="244" key="GridCell.Tab.1.left" timestamp="1608458553665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="244" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608458553665" />
+    <state width="1024" height="244" key="GridCell.Tab.1.right" timestamp="1608458553665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="244" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608458553665" />
+    <state width="1024" height="244" key="GridCell.Tab.2.bottom" timestamp="1608458553665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="244" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608458553665" />
+    <state width="1024" height="244" key="GridCell.Tab.2.center" timestamp="1608458553665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="244" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1608458553665" />
+    <state width="1024" height="244" key="GridCell.Tab.2.left" timestamp="1608458553665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="244" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1608458553665" />
+    <state width="1024" height="244" key="GridCell.Tab.2.right" timestamp="1608458553665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="244" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1608458553665" />
+    <state width="1024" height="190" key="GridCell.Tab.3.bottom" timestamp="1608451765011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="190" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608451765011" />
+    <state width="1024" height="190" key="GridCell.Tab.3.center" timestamp="1608451765011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="190" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1608451765011" />
+    <state width="1024" height="190" key="GridCell.Tab.3.left" timestamp="1608451765011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="190" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1608451765011" />
+    <state width="1024" height="190" key="GridCell.Tab.3.right" timestamp="1608451765011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="190" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1608451765011" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xxxx/controller/MenuServlet.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>loginProject:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>loginProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

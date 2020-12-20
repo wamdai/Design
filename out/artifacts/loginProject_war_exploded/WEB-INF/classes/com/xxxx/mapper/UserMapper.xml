@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.xxxx.mapper.UserMapper">
+    <!--查询指定用户的所有信息-->
+    <select id="queryUserByName" parameterType="String" resultType="com.xxxx.model.User">
+		select * from tb_user where userName = #{userName}
+    </select>
+    <!--获取导航栏-->
+    <select id="mainMenu"  resultType="com.xxxx.model.Menu">
+        select mainFile from mainmenu
+    </select>
+    <!--内连接查询以及导航对应的所有二级导航的名称和对应的超链接地址-->
+    <select id="smenu" parameterType="Int" resultType="com.xxxx.model.SMenu">
+        SELECT b.sFile,b.Link FROM  mainmenu a join smenu b on b.f_id=a.id WHERE a.id = #{id}
+    </select>
+    <select id="test" parameterType="String" resultType="String">
+       select b.univecity from list a join list_1 b on a.id=b.f_id where a.provinces=#{name}
+    </select>
+
+    <select id="test_1"  resultType="String">
+      select list.provinces from list
+    </select>
+</mapper>
